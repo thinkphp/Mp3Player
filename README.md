@@ -1,2 +1,2 @@
 # Mp3Player
-Player based on Tkinter
+Player based on Tkinter and pygame
